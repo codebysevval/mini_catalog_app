@@ -1,21 +1,20 @@
-# mini_catalog_app
+# Mini Catalog App 📱🛒
 
-A new Flutter project.
+A cross-platform e-commerce mini application built with **Flutter** and **Dart**.
 
-## Getting Started
+## 🚀 Features
+- **Discover Page:** Modern product display with a featured store banner.
+- **Search & Filter:** Real-time client-side search across the product catalog.
+- **Product Details:** Detailed product view with images, descriptions, and dynamic fallback handling.
+- **Cart Management:** Interactive shopping cart with order summary and checkout workflow.
 
-This project is a starting point for a Flutter application.
+## 🛠️ Tech Stack
+- **Framework:** Flutter
+- **Language:** Dart
+- **State Management:** StatefulWidget / Lifted State
 
-A few resources to get you started if this is your first Flutter project:
+## 💻 How to Run
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# mini_catalog_app
-# mini_catalog_app
-# mini_catalog_app
-# mini_catalog_app
+1. Clone the repository:
+   ```bash
+   git clone [https://github.com/codebysevval/mini_catalog_app.git](https://github.com/codebysevval/mini_catalog_app.git)
