@@ -46,3 +46,4 @@ app.*.map.json
 
 # Widget Preview related
 .widget_preview/
+google-chrome-stable_current_amd64.deb
