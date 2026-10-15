@@ -18,3 +18,4 @@ samples, guidance on mobile development, and a full API reference.
 # mini_catalog_app
 # mini_catalog_app
 # mini_catalog_app
+# mini_catalog_app
